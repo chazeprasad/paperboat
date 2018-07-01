@@ -1,0 +1,19 @@
+{
+  "name": "paperboat",
+  "version": "0.0.1",
+  "description": "Paperboat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chazeprasad/paperboat.git"
+  },
+  "author": "Prasad Sivanandan <chazeprasad@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chazeprasad/paperboat/issues"
+  },
+  "homepage": "https://github.com/chazeprasad/paperboat#readme"
+}
