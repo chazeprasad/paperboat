@@ -1,0 +1,1 @@
+{"version":3,"sources":["../lib/paper.ts"],"names":[],"mappings":";;AAAA;IACI;IAEA,CAAC;IAED,mBAAG,GAAH;QACI,OAAO,CAAC,GAAG,CAAC,eAAe,CAAC,CAAC;IACjC,CAAC;IACL,YAAC;AAAD,CARA,AAQC,IAAA;AARY,sBAAK","file":"../paper.js","sourcesContent":["export class Paper {\n    constructor() {\n\n    }\n\n    log(){\n        console.log('--- Paper ---');\n    }\n}\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../lib/index.ts"],"names":[],"mappings":";;AAAA,iCAAgC;AAE5B,gBAFK,aAAK,CAEL","file":"../index.js","sourcesContent":["import { Paper } from './paper';\nexport {\n    Paper\n}\n"]}
